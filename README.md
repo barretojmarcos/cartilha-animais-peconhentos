@@ -20,7 +20,7 @@ Site educativo sobre prevenção e primeiros socorros em casos de acidentes com 
 
 ## 📋 Descrição
 
-Este projeto é uma cartilha digital interativa baseada no PDF "Cartilha - Animais Peçonhentos.pdf", desenvolvida com HTML, CSS e JavaScript. O site oferece informações essenciais sobre:
+Este projeto é uma cartilha digital interativa baseada no PDF "Post de Instagram Check List Para Uma Boa Semana Gráfico Verde e Laranja (1).pdf", desenvolvida com HTML, CSS e JavaScript. O site oferece informações essenciais sobre:
 
 - **Vídeo em LIBRAS** - Vídeo local (CartilhaLibras.mp4) com conteúdo completo em Língua Brasileira de Sinais
 - O que fazer em casos de acidentes
@@ -49,7 +49,7 @@ AnimaisPeconhentos/
 ├── script.js           # Funcionalidades JavaScript
 ├── CartilhaLibras.mp4  # Vídeo em LIBRAS
 ├── README.md           # Documentação do projeto
-└── Cartilha - Animais Peçonhentos.pdf  # PDF original
+└── Post de Instagram Check List Para Uma Boa Semana Gráfico Verde e Laranja (1).pdf  # PDF da cartilha
 ```
 
 ## 🎨 Características
